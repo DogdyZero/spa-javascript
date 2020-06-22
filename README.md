@@ -8,3 +8,5 @@ OBS: para configurar a api é necessário acessar o site da google, baixar o có
 o arquivo de configuração esta sendo acessado na pasta config, e o nome esta credentials-fake.json
 
 para funcionar, deverá ser removido "-fake" e dentro do arquivo salvar as configurações necessárias.
+
+OBS: o .gitignore esta ignorando o arquivo credentials.json, para que o mesmo não venha para esse repositório on-line
