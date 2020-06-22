@@ -10,3 +10,10 @@ o arquivo de configuração esta sendo acessado na pasta config, e o nome esta c
 para funcionar, deverá ser removido "-fake" e dentro do arquivo salvar as configurações necessárias.
 
 OBS: o .gitignore esta ignorando o arquivo credentials.json, para que o mesmo não venha para esse repositório on-line
+
+
+executar npm install
+
+para subir o servidor: npm run start
+
+deploy produção: nom run build
